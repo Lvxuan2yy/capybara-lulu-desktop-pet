@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+logs/
+
+# Windows 系统临时文件
+Thumbs.db
